@@ -1,0 +1,8 @@
+Extensions:
+Python
+Jupiter
+
+Terminal -> New terminal -> "pip install ipykernel"
+
+
+Python version: 3.9.7
