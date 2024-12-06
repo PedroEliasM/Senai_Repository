@@ -1,0 +1,1 @@
+insert into fornecedor values(1, "Empresa Nike", "Tênis 1");
