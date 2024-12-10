@@ -1,1 +1,0 @@
-insert into produto values('1', 'Air Max', 'Corrida', '43', 'Branco', 'R$109,99', '1')

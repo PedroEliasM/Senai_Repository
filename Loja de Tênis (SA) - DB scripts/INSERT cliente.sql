@@ -1,1 +1,0 @@
-insert into cliente values('1', 'Leonardo', 'leo@gmail.com', '47112233', 'Santo Antônio')
